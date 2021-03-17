@@ -16,5 +16,9 @@
   "bugs": {
     "url": "https://github.com/georgpreuss/fluffy-octo-spoon/issues"
   },
-  "homepage": "https://github.com/georgpreuss/fluffy-octo-spoon#readme"
+  "homepage": "https://github.com/georgpreuss/fluffy-octo-spoon#readme",
+  "dependencies": {
+    "react": "^17.0.1",
+    "react-dom": "^17.0.1"
+  }
 }
